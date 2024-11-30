@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "ialdfufudoll:block/yohanemashiro",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "ialdfufudoll:block/yohanemashiro"
+    },
+    "facing=south": {
+      "model": "ialdfufudoll:block/yohanemashiro",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ialdfufudoll:block/yohanemashiro",
+      "y": 270
+    }
+  }
+}
+
+
